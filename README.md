@@ -1,4 +1,4 @@
-# hysics-pinns-toolkit
+# Physics-pinns-toolkit
 Physics-Informed Neural Networks in CFD applications
 # Physics-Informed Neural Networks Toolkit
 
